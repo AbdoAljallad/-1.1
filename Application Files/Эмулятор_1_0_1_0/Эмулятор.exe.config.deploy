@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="emulator.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+    <userSettings>
+        <emulator.Properties.Settings>
+            <setting name="Style" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Direct" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="fileName" serializeAs="String">
+                <value>emulator</value>
+            </setting>
+            <setting name="fio" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="key1" serializeAs="String">
+                <value>F1</value>
+            </setting>
+            <setting name="key2" serializeAs="String">
+                <value>F2</value>
+            </setting>
+            <setting name="key3" serializeAs="String">
+                <value>F3</value>
+            </setting>
+            <setting name="key4" serializeAs="String">
+                <value>F4</value>
+            </setting>
+            <setting name="key5" serializeAs="String">
+                <value>F5</value>
+            </setting>
+            <setting name="key" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="colour" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="path1" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="path2" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="path3" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="path4" serializeAs="String">
+                <value />
+            </setting>
+        </emulator.Properties.Settings>
+    </userSettings>
+</configuration>
